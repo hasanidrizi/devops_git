@@ -1,0 +1,57 @@
+*.tmp
+# Office 
+~$*.doc*
+Backup of *.doc*
+~$*.xls*
+*.xlk
+~$*.ppt*
+*.~vsd*
+*~$*
+.DS_Store
+.idea
+
+# MkDocs build output
+site/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+*.swp
+*.swo
+*~
+
+# Cache
+.cache/
+.pytest_cache/
+
+# GitLab Pages
+public/
+0_Organisatorisches/Tagesplanungen/devops.code-workspace
+
+# KI / Claude Code — lokal, nicht nach GitLab hochladen
+CLAUDE.md
+/ai/
