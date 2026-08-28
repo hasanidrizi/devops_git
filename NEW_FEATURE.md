@@ -3,3 +3,4 @@
 - Save user settings
 - Dark mode toggle
 - Language preferences
+- Add Passkey support
